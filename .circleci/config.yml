@@ -6,4 +6,4 @@ jobs:
     steps:
       - checkout
       - run: echo "A first hello"
-      - run: ech "Rob is rad"
+      - run: echo "Rob is rad"
